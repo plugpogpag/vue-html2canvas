@@ -35,7 +35,7 @@
     "canvas"
   ],
   "dependencies": {
-    "html2canvas": "^1.0.0-alpha.12"
+    "html2canvas": "^1.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
